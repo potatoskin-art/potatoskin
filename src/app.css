@@ -21,8 +21,13 @@
     }
     @font-face {
         font-family: 'DMSans';
-        src: url('/font/DMSans_36pt-Bold.ttf');
+        src: url('/font/DMSans_36pt-SemiBold.ttf');
         font-weight: 600;
+    }
+    @font-face {
+        font-family: 'DMSans';
+        src: url('/font/DMSans_36pt-Bold.ttf');
+        font-weight: 800;
     }
 
     @font-face {
