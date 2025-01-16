@@ -10,7 +10,7 @@
     ]
 </script>
 
-<div class="min-h-screen bg-black">
+<div class="min-h-screen bg-[#F6F6F6]">
     <!-- Header -->
     <div class="bg-white h-[6dvh] drop-shadow-[0_1px_1px_rgb(0,0,0,0.2)] flex items-center">
         <!-- Logo -->
@@ -31,8 +31,6 @@
     </div>
     <!-- Page Content -->
     <div class="h-[94dvh]">
-        <div class="h-full bg-[#F6F6F6]">
-            <slot />
-        </div>
+        <slot />
     </div>
 </div>
