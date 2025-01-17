@@ -30,7 +30,7 @@
         </div>
     </div>
     <!-- Page Content -->
-    <div class="h-[94dvh]">
+    <div class="h-full">
         <slot />
     </div>
 </div>

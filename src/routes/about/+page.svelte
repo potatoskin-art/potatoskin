@@ -42,7 +42,7 @@
                 </ul>
             </div>
             <!-- Support -->
-            <div class="mt-[4dvh]">
+            <div class="mt-[4dvh] pb-[4dvh]">
                 <p class="font-bold text-2xl">Support Us ❤️</p>
                 <p class="mt-[2dvh]">
                     If you love our site as much as we do, please consider supporting us! If you’re an artist or know other artists,
